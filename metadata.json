@@ -1,0 +1,8 @@
+{
+  "name": "Remix Socratic AI - Trợ Lý Giáo Dục Khơi Gợi Tư Duy",
+  "description": "Trợ lý học tập thông minh áp dụng phương pháp vấn đáp Socratic: không làm hộ bài, chia nhỏ vấn đề và đặt câu hỏi gợi mở để học sinh tự làm chủ kiến thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
